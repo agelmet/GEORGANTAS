@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/periklis-georgantas-icon.svg"
+ },
+ "source_md5": "79fb3f49361ebd17bf7209d012c9bba4",
+ "version": "760ec0af",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "7e597a72a67456e7ab57fd897975d6c2"
+ ],
+ "made": "2026-11-24"
+}
