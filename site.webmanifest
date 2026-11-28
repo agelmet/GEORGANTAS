@@ -3,8 +3,8 @@
  "short_name": "Πλαστικός Χε",
  "start_url": "./",
  "display": "standalone",
- "background_color": "#EEE7DB",
- "theme_color": "#EEE7DB",
+ "background_color": "#EFEAE1",
+ "theme_color": "#EFEAE1",
  "icons": [
   {
    "src": "assets/icons/icon-192.png",
